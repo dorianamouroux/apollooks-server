@@ -1,4 +1,4 @@
 {
   "alias": ["apollooks-server"],
-  "regions": ["bru", "sfo", "iad"]
+  "regions": ["bru", "sfo"]
 }
