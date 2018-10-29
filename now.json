@@ -1,3 +1,4 @@
 {
-  "alias": ["apollooks-server"]
+  "alias": ["apollooks-server"],
+  "regions": "all"
 }
